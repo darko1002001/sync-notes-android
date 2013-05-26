@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SyncNotes</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="add">add</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="toast_category_added">Category Added</string>
+    <string name="toast_category_updated">Category Updated</string>
+    <string name="toast_enter_required_parameters">Enter Required Parameters</string>
+	<string name="toast_unable_to_create_category">Unable to create a new category, check your connection and try again</string>
+    <string name="toast_unable_to_update_category">Unable to update category, check your connection and try again</string>
+    <string name="update">Update</string>
+
+</resources>
